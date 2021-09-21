@@ -1,6 +1,6 @@
 ### Hi, I am RainbowRui 👋
 
-<!-- ![](https://github-readme-stats-one-bice.vercel.app/api?username=RainbowRui&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=solarized-light) -->
+![](https://github-readme-stats-one-bice.vercel.app/api?username=RainbowRui&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=solarized-light)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=RainbowRui&show_icons=true&count_private=true&theme=solarized-light) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowRui&theme=solarized-light&hide=javascript,html,css) -->
 

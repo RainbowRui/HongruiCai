@@ -10,3 +10,5 @@
 ✨ Personal Website: https://rainbowrui.github.io/
 
 ✨ Google Scholar: https://scholar.google.com/citations?user=fqoe18wAAAAJ&hl=en
+
+✨ Twitter: https://twitter.com/HongruiCai

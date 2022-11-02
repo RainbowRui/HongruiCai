@@ -1,14 +1,14 @@
-<!-- ### Hi, I am RainbowRui 👋 -->
+<!-- ### Hi, I am RainbowRui -->
 
 ![](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=RainbowRui&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=solarized-light)
 <!-- ![](https://github-readme-stats-one-bice.vercel.app/api?username=RainbowRui&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=solarized-light) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=RainbowRui&show_icons=true&count_private=true&theme=solarized-light) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowRui&theme=solarized-light&hide=javascript,html,css) -->
 
-✨ Email: hrcai AT mail.ustc.edu.cn
+:spades: Email: hrcai AT mail.ustc.edu.cn
 
-✨ Personal Website: https://rainbowrui.github.io/
+:hearts: Personal Website: https://rainbowrui.github.io/
 
-✨ Google Scholar: https://scholar.google.com/citations?user=fqoe18wAAAAJ&hl=en
+:clubs: Google Scholar: https://scholar.google.com/citations?user=fqoe18wAAAAJ&hl=en
 
-✨ Twitter: https://twitter.com/HongruiCai
+:diamonds: Twitter: https://twitter.com/HongruiCai

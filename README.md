@@ -5,4 +5,4 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=RainbowRui&show_icons=true&count_private=true&theme=solarized-light) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowRui&theme=solarized-light&hide=javascript,html,css) -->
 
-:spades: Email: hrcai AT mail.ustc.edu.cn :hearts: [Personal Website](https://rainbowrui.github.io/) :clubs: [Google Scholar](https://scholar.google.com/citations?user=fqoe18wAAAAJ&hl=en) :diamonds: [Twitter](https://twitter.com/HongruiCai)
+:spades: Email: hrcai AT mail.ustc.edu.cn :hearts: [Homepage](https://rainbowrui.github.io/) :clubs: [Google Scholar](https://scholar.google.com/citations?user=fqoe18wAAAAJ&hl=en) :diamonds: [Twitter](https://twitter.com/HongruiCai)
